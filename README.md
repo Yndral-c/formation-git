@@ -2,8 +2,7 @@
 
 [Yndral-c.github](https://yndral-c.github.io/formation-git/)
 
-# Titre du fichier README
-
+# Apprendre à utiliser GitHub
 ![alt text](image.png)
 
 # Utiliser EMMET
