@@ -134,6 +134,7 @@ git rm--cached /build-r
 ```
 
 # Exemple de fichier .gitignore
+```
 fichier <code>.gitignore</code>
 ```
 
